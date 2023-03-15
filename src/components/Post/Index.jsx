@@ -31,6 +31,7 @@ const Post = () => {
             <label>Email</label>
             <input type="text" /> */}
 
+                
             <button style={{background:'green'}} onClick={() => postData(location.reload())}>Post</button>
         </div>
     )
